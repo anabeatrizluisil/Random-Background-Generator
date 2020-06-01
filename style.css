@@ -1,0 +1,29 @@
+html, body {
+    font-size: 64.5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.botao {
+    padding: 5px 20px;
+    font-size: 2rem;
+    border-radius: 5px;
+    border: none;
+    background-color: lightgray;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+div {
+    padding: 15px 0;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
